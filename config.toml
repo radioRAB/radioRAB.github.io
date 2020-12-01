@@ -7,7 +7,7 @@ theme = "minimal"
 
 [params]
     author = "Calin Tataru"
-    description = "La radio que t'écoutes quand tu n'as rien à boire"
+    description = "La radio que t'écoutes quand tu n'as rien à boire!"
     githubUsername = "#"
     accent = "red"
     showBorder = true
@@ -28,8 +28,13 @@ theme = "minimal"
     weight = 2
 
 [[menu.main]]
+    url = "/radio/"
+    name = "Radio"
+    weight = 2
+
+[[menu.main]]
     url = "/post/"
-    name = "Posts"
+    name = "Podcasts"
     weight = 3
 
 [[menu.main]]
