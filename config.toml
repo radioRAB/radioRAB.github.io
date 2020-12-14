@@ -46,10 +46,10 @@ theme = "minimal"
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
 
-# [[menu.icon]]
-#     url = "mailto:me@example.com"
-#     name = "envelope-o"
-#     weight = 1
+[[menu.icon]]
+    url = "mailto:rab.radiofficiel@gmail.com"
+    name = "envelope-o"
+    weight = 1
 
 [[menu.icon]]
     url = "https://github.com/radioRAB/"
