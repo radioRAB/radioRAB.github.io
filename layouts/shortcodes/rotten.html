@@ -1,0 +1,8 @@
+<center>
+  <figure>
+    <a href="www.rottentomatoes.com/{{ .Get 0 }}">
+    <img class="rotten" src="{{ .Get 1 }}">
+    </a>
+    <figcaption><span class="rotten_caption">{{ .Get 2 | default "" }}</span></figcaption>
+  </figure>
+</center>

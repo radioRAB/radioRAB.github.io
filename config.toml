@@ -16,6 +16,8 @@ theme = "minimal"
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    css = ["css/extra.css"]
+    copyright = " Ce site a été généré avec [Hugo](https://gohugo.io) et le thème [Minimal](https://github.com/calintat/minimal). Par défaut, les contenus présentés sur ce site sont licensiés sous [CC-BY](https://creativecommons.org/licenses/by/4.0/)."
 
 [[menu.main]]
     url = "/"
