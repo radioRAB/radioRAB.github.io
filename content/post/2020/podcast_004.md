@@ -33,3 +33,11 @@ Premier titre de notre club de lecture, ["20000 lieues sous les mers"](https://f
 ### Adaptations
 
 {{< rotten "m/1000079-20000_leagues_under_the_sea" "https://resizing.flixster.com/R6Z8O1SmAnHEmnIyQNVoH4GS63g=/206x305/v2/https://flxt.tmsimg.com/assets/p3200_p_v10_ag.jpg" "Adaptation de 200000 lieues sous les mers (1954) avec, entre autres Kirk Douglas et James Mason, mis en scène par Richard Fleischer et produit par Walt Disney Pictures" >}}
+
+
+["Vingt mille lieues sous les mers" de Jules Verne](https://www.franceculture.fr/emissions/fictions-samedi-noir/vingt-mille-lieues-sous-les-mers-de-jules-verne-1)
+
+
+
+https://www.google.com/search?q=le+secret+du+nautilus&client=firefox-b-e&sxsrf=ALeKk01o_ewMVp0SEkEsrVTDlQWiDlKCXg:1607979064870&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiW0N7nrM7tAhXCVt8KHbqeAtEQ_AUoAXoECAMQAw&biw=1376&bih=675#imgrc=yqIBEYpjSgMK0M
+[Le Secret du Nautilus](https://fr.wikipedia.org/wiki/Le_Secret_du_Nautilus)

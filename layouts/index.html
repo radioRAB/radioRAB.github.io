@@ -1,0 +1,13 @@
+{{ partial "header" . }}
+
+<main>
+    <div class="intro">
+        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
+        <img src="img/logo_rab_r.png" alt="logo", height='280px'>
+        <h1>{{ .Site.Title }}</h1>
+        <h2>{{ markdownify .Site.Params.Description }}</h2>
+        {{ with .Content }} <div class="homepage-content text-justify">{{ . }}</div> {{ end }}
+    </div>
+</main>
+
+{{ partial "footer" . }}
