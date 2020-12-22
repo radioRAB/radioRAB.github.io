@@ -1,0 +1,11 @@
+<center>
+  <figure>
+    <img class="fig" src="{{ .Get 0}}" alt="{{ .Get 1 }}" width="{{ .Get 2 | default 100 }}%" >
+    <figcaption>
+      <span class="highlight">{{ .Get 1 | markdownify }}</span></figcaption>
+  </figure>
+</center>
+
+
+
+<!-- (.Resources.GetMatch "duck.jpg").RelPermalink -->
