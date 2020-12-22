@@ -1,7 +1,7 @@
 ---
 title: "Chambre 2806"
 date: 2020-12-21
-description: "Podcast sur le documentaire de produit par Netflix "
+description: "Podcast sur le documentaire de produit par Netflix."
 tags: ["Documentaire", "DSK"]
 ---
 
