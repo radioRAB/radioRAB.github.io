@@ -10,5 +10,5 @@ figcaption {
 .profile {
     width: 18vh;
     height: 18vh;
-    border-radius: 0%;
+    border-radius: 0% !important;
 }
