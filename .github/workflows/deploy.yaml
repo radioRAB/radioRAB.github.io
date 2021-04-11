@@ -22,14 +22,14 @@ jobs:
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.75.1'
+        hugo-version: '0.80.0'
         extended: true
     - name: Build website
       run: hugo --minify
 
     - name: Deploy website
-      uses: peaceiris/actions-gh-pages@v2.5.0
-      env:
-        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        PUBLISH_BRANCH: main
-        PUBLISH_DIR: ./public
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        personal_token: ${{ secrets.DEPLOY_TOKEN }}
+        publish_branch: main
+        publish_dir: ./public
