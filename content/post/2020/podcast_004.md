@@ -12,16 +12,16 @@ tags: ["Lecture", "Science fiction", "Jules Verne", "Aventure"]
 
 ### Opinions 
 
-*20000 lieues sous les mers* est un roman d'aventure d'une grande richesse qui amène le lecteur aux quatre coins du globe, en parcourant tous les oceans et de nombreuses mers. C'est une formidable exploration sous-marine, d'une très grande modernité (propre aux romans de [Jules Verne (1828-1905)](https://fr.wikipedia.org/wiki/Jules_Verne) et qui témoigne d'un grand intérêt de l'auteur pour la biologie (et aussi de l'écologie, à la période même où [Ernst Haeckel](https://fr.wikipedia.org/wiki/Ernst_Haeckel) invente le terme!). 
+*20000 lieues sous les mers* est un roman d'aventure d'une grande richesse qui amène le lecteur aux quatres coins du globe, en passant par tous les océans et de nombreuses mers. C'est une formidable exploration sous-marine, d'une très modernité stupéfiante (propre aux romans de [Jules Verne (1828-1905)](https://fr.wikipedia.org/wiki/Jules_Verne) et qui témoigne d'un intérêt réel de l'auteur pour la biologie (et aussi de l'écologie, à la période même où [Ernst Haeckel](https://fr.wikipedia.org/wiki/Ernst_Haeckel) invente le terme!). 
 
 
 {{< figcenter "https://supitalp.github.io/tldr/images/trajet-nautilus.jpg" "Le trajet du Nautilus sur (https://supitalp.github.io)" >}}
 
 
-On ne peut que se réjouir de que ce roman soit le [5eme livre le plus traduit (en 2018) en terme de nombre de langues](https://cv-translation.com/2018/02/20/les-15-livres-les-plus-traduits/) tant il est riche aussi bien du point de vue de l'intrigue que de celui des personnages. Nous avons d'ailleurs pas mal discuté des personnages, notamment du courage sans faille de Conseil et surtout du mystérieux capitaine Némo, à la fois Batman et Robin des bois de son époque, un humaniste misanthrope qui s'est réfugié au fond des océans à la suite d'un drame personnel et qui s'est mis en quête boulimique de connaissances tout en gardant une une soif de vengeance certaine. 
+On ne peut que se réjouir de que ce roman soit le [5eme livre le plus traduit (en 2018) en terme de nombre de langues](https://cv-translation.com/2018/02/20/les-15-livres-les-plus-traduits/) tant il est riche aussi bien du point de vue de l'intrigue que de celui des personnages. Nous avons d'ailleurs pas mal discuté des personnages, notamment du courage sans faille de Conseil et surtout nous avons tenté de cerner le mystérieux capitaine Némo, à la fois Batman et Robin des bois de son époque, un humaniste misanthrope qui s'est réfugié au fond des océans à la suite d'un drame personnel et qui s'est mis en quête boulimique de connaissances tout en gardant une une soif de vengeance certaine. 
 
 
-Au regard de la richesse du récit nous ne sommes pas étonnés qu"il soit à l'origine de nombreux projets de lecteurs, notamment des articles incluant des plans du Nautilus et des cartes illustrant le trajet du Nautilus, par exemple: 
+Au regard de la richesse du récit nous ne sommes pas étonnés qu'il soit à l'origine de nombreux projets de lecteurs, notamment des articles incluant des plans du Nautilus et des cartes illustrant le trajet du Nautilus, par exemple: 
 
 - "Nautilus - homage to Jules Verne" sur le site [hisutton.com](http://www.hisutton.com/Nautilus%20-%20homage%20to%20Jules%20Verne.html)
 - "The Nautilus' Interior" sur  [ww.vernianera.com](https://www.vernianera.com/Nautilus/layout.html)
@@ -40,7 +40,7 @@ Le Nautilus étant le sous-marin qui permet cette aventure, il est important d'a
 - notamment, le [Nautilus de Fulton (1797)](https://fr.wikipedia.org/wiki/Nautilus_(Fulton));
 - et sur ce qui est connu de l'[électricité](https://fr.wikipedia.org/wiki/%C3%89lectricit%C3%A9#XVIIe_et_XVIIIe_si%C3%A8cless) dans les années 1860.
 
-Pour comprendre la modernité du récit du point de vue de la biologie, il est aussi intéressant de savoir où en est la taxonomies dans ces années là:
+Pour comprendre la modernité du récit du point de vue de la biologie, il est aussi intéressant de savoir où en est la taxonomies dans ces années-là:
 
 - [Carl von Linné (1707-1778)](https://fr.wikipedia.org/wiki/Carl_von_Linn%C3%A9)
 - [Georges Cuvier (1769-1832)](https://fr.wikipedia.org/wiki/Georges_Cuvier)
