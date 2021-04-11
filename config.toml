@@ -6,7 +6,7 @@ theme = "minimal"
 # googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
+    author = "radioRAB"
     description = "La radio que t'écoutes quand tu n'as rien à boire!"
     githubUsername = "#"
     accent = "red"
@@ -17,7 +17,7 @@ theme = "minimal"
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     css = ["css/extra.css"]
-    copyright = " Ce site a été généré avec [Hugo](https://gohugo.io) et le thème [Minimal](https://github.com/calintat/minimal). Par défaut, les contenus présentés sur ce site sont licensiés sous [CC-BY](https://creativecommons.org/licenses/by/4.0/)."
+    copyright = "Ce site a été généré avec [Hugo](https://gohugo.io) et le thème [Minimal](https://github.com/calintat/minimal). Par défaut, les contenus présentés sur ce site sont licensiés sous [CC-BY](https://creativecommons.org/licenses/by/4.0/)."
     profilePic = "img/logo_rab_r.png"
 
 [[menu.main]]
@@ -27,7 +27,7 @@ theme = "minimal"
 
 [[menu.main]]
     url = "/about/"
-    name = "About"
+    name = "À propos"
     weight = 2
 
 [[menu.main]]
@@ -36,13 +36,13 @@ theme = "minimal"
     weight = 2
 
 [[menu.main]]
-    url = "/post/"
+    url = "/podcasts/"
     name = "Podcasts"
     weight = 3
 
 [[menu.main]]
-    url = "/project/"
-    name = "Projects"
+    url = "/opinions/"
+    name = "Opinions"
     weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar.
@@ -63,13 +63,3 @@ theme = "minimal"
 #     url = "https://twitter.com/username/"
 #     name = "twitter"
 #     weight = 3
-# 
-# [[menu.icon]]
-#     url = "https://www.linkedin.com/in/username/"
-#     name = "linkedin"
-#     weight = 4
-# 
-# [[menu.icon]]
-#     url = "https://www.stackoverflow.com/username/"
-#     name = "stack-overflow"
-#     weight = 5
