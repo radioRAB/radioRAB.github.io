@@ -8,6 +8,8 @@
         <h1>{{ .Site.Title }}</h1>
         <h2>{{ markdownify .Site.Params.Description }}</h2>
         {{ with .Content }} <div class="homepage-content text-justify">{{ . }}</div> {{ end }}
+        <br/>
+        <audio preload="auto" controls style="width:100%; height:40px;" src="http://116.203.119.78:8443/radioRAB"> </audio>
     </div>
 </main>
 
